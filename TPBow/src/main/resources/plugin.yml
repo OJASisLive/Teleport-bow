@@ -1,0 +1,10 @@
+name: TPbow
+version: '${project.version}'
+main: me.ojasislive.tpbow.TPbow
+api-version: 1.19
+authors: [ OJASisLive ]
+description: Ender bow for minecraft
+commands:
+  givebow:
+    description: Gives you an ender bow.
+    usage: /<command>
